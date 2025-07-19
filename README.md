@@ -130,6 +130,6 @@ Your support encourages future updates and enhancements.
 ## 🔚 Final Note
 
 Thank you for exploring the Hospital Analytics Dashboard.  
-We hope it adds value to your healthcare data journey — one chart at a time! 📊💙
+I hope it adds value to your healthcare data journey — one chart at a time! 📊💙
 
 ---
