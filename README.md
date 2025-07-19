@@ -1,3 +1,4 @@
+
 # Hospital Analysis Dashboard
 ## Dashboard Banner
 ![image alt](https://github.com/SirSahilSingh/hospital-analysis-dashboard/blob/38823697988e0bf4ab4f0ea4e41492677ed36386/Snapshots/hospital_dashboard_page-0001.jpg)
@@ -66,3 +67,69 @@ Shows insights on Financial metrics like medicine sales, bill distribution, sala
     • Patient charge categories and revenue split
     • Total bill amounts, commission, salary, and profit
     • Medicine stock status per vendor (e.g., MediCore, HealthCare, etc.)
+
+## 🧰 Technology Stack
+📊 **Power BI Desktop –**  Core dashboard builder
+
+🎨**Figma -** Background and icons designing software
+
+🧠 __DAX (Data Analysis Expressions) –__  Measures & KPIs
+
+🔄 __Power Query (M Language) –__  Data cleaning and transformation
+
+🧱 __Star Schema Modeling –__  Fact & dimension structure  
+
+## ✨ Features / Highlights
+### 🔍 **Business Problem**
+Hospitals generate vast amounts of data across multiple departments—patients, doctors, medicines, billing, appointments, and staff operations. However, this data is often siloed, underutilized, and difficult to visualize in real time. Manual tracking leads to inefficiencies in decision-making, resource allocation, and financial transparency.
+
+---
+
+### 🎯 **Goal of the Dashboard**
+To provide a centralized, interactive, and visually compelling dashboard that:
+
+- Brings together key operational, financial, and clinical metrics  
+- Helps stakeholders make quick, data-driven decisions  
+- Identifies bottlenecks, resource utilization patterns, and revenue insights  
+- Enables hospital management to track KPIs in a single view
+
+---
+
+### 📈 **Business Impact & Insights**
+
+-  **360° View of Hospital Operations**: Unified platform reduces the need to navigate multiple systems for key metrics.  
+-  **Financial Transparency**: Real-time analysis of revenue, expenses, and profit empowers budget optimization.  
+-  **Better Inventory Planning**: Insights on medicine stock and vendor performance help prevent shortages and reduce overstocking.  
+-  **Doctor & Staff Management**: Easily track doctor availability, earnings, and performance to aid scheduling and HR decisions.  
+-  **Improved Patient Satisfaction**: Personalized data including feedback and billing details improve patient experience and hospital service quality.
+
+---
+
+##  Contributing
+
+Have suggestions for improvements or new features?  
+Feel free to fork the repo, open a pull request, or submit an issue!
+
+---
+
+##  Contact
+
+For any queries, feedback, or collaborations:  
+📧 Email: sahil040305@gmail.com   
+🌐 LinkedIn: [SINGH SAHIL](https://linkedin.com/in/sirsinghsahil)
+
+---
+
+## ⭐ Support
+
+If you found this dashboard helpful, consider giving this repository a ⭐!  
+Your support encourages future updates and enhancements.
+
+---
+
+## 🔚 Final Note
+
+Thank you for exploring the Hospital Analytics Dashboard.  
+We hope it adds value to your healthcare data journey — one chart at a time! 📊💙
+
+---
