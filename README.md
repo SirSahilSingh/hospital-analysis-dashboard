@@ -13,8 +13,11 @@ Shows the summary view of the hospital's operations — key KPIs like admitted/d
 Here's the highlited relationship presented in the dashboard -
 
 • Total number of patients, doctors, staff, and bills
+
 • Discharge percentage & appointment logs
+
 • Bed occupancy and medicine stock availability
+
 • Quick insights into charges by category (Surgery, Tests, Room, etc.)
 
 
